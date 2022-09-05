@@ -1,0 +1,6 @@
+br/com/guimadev/todoapp/model/Project.class
+br/com/guimadev/todoapp/model/Task.class
+br/com/guimadev/todoapp/util/ConnectionFactory.class
+br/com/guimadev/todoapp/controller/TaskController.class
+br/com/guimadev/todoapp/TodoApp.class
+br/com/guimadev/todoapp/controller/ProjectController.class
